@@ -9,7 +9,7 @@
       "mavenVersion": "3.9.10",
       "installGradle": "false"
     },
-    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    // "ghcr.io/devcontainers/features/docker-in-docker:2": {}
   },
   "customizations": {
     "vscode": {
